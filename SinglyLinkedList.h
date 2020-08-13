@@ -1,7 +1,7 @@
 //
 //  SinglyLinkedList.h
 //  SinglyLinkedList
-//
+//  change user input to file input
 
 
 #ifndef SinglyLinkedList_h

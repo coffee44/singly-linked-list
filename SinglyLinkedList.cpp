@@ -1,7 +1,7 @@
 //
 //  SinglyLinkedList.cpp
 //  SinglyLinkedList
-//
+//  change user input to file input
 
 
 #include "SinglyLinkedList.h"
